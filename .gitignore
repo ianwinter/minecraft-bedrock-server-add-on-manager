@@ -16,3 +16,6 @@
 
 # Jetbrains IDEs
 .idea
+
+redis-data/dump.rdb
+config/users.yaml
